@@ -40,4 +40,4 @@ backend-local/
 4. **图像生成** - 使用 Google Imagen 生成图片
 
 ## 作者
-https://github.com/Steve84226
+https://github.com/hxim6089
